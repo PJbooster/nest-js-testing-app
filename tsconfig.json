@@ -12,7 +12,9 @@
     "noFallthroughCasesInSwitch": true,
     "paths": {
       "@server/*": ["./apps/server/src/*"],
-      "@admin/*": ["./apps/admin-panel/src/*"]
+      "@admin/*": ["./apps/admin-panel/src/*"],
+      "@app-utils": ["./libs/utils"],
+      "@app-types": ["./libs/types"]
     }
   }
 }

@@ -11,6 +11,8 @@ node_modules/
 /.settings 
 *.code-workspace
 
+.env
+
 # Vim
 [._]*.s[a-v][a-z]
 [._]*.sw[a-p]
